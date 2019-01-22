@@ -6,3 +6,5 @@ alert("Hello Don Sergio");
 print('Hello once again')
 
 И еще немного писанины для теста
+
+Hello hello hello 
